@@ -1,0 +1,6 @@
+com\springcrud\model\TODOLIST.class
+com\springcrud\controller\TodoController.class
+com\springcrud\service\Todoservice.class
+com\springcrud\repository\TodoRepository.class
+com\springcrud\SpringcrudApplication.class
+com\springcrud\serviceImp\Todoserviceimp.class
